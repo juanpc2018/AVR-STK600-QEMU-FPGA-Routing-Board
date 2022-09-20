@@ -1,6 +1,6 @@
 ## AVR STK600 QEMU FPGA Routing Board idea
 
-i iknow there is a Software that emulates AVR 
+i iknow there is a Software that emulates AVR, 
 loads the compiled image file from Atmel Studio 7 / MPLAB Studio or Arduino IDE,
 and emulates wires, resistors, leds, switches, etc...
 cannot remember the name of that software.
