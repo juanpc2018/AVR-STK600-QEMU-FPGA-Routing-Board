@@ -61,6 +61,8 @@ and dip switch the Routing board.
 
 Just ideas... 
 
+https://www.analog.com/en/analog-dialogue/articles/wideband-cmos-switches.html
+
 https://
 g i t l a b
 .com/qemu-project/qemu/-/issues/1181
