@@ -59,9 +59,13 @@ C) instead of FPGA, HCMOS analog switches.
 instead of swapping the routing board and IC board, just the IC board, 
 and dip switch the Routing board.
 
+D) using mini relays.
+
 Just ideas... 
 
 https://www.analog.com/en/analog-dialogue/articles/wideband-cmos-switches.html
+
+https://www.maximintegrated.com/en/design/technical-documents/app-notes/5/5299.html
 
 https://
 g i t l a b
