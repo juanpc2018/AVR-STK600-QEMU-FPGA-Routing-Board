@@ -61,11 +61,19 @@ and dip switch the Routing board.
 
 D) using mini relays.
 
+
+Mini Relays = $$$, more energy consumption, wears, but will guarantee signal integrity.
+CMOS Analog Switches = cheaper, noiseless, low power, does Not wear as fast,
+but the problem is that AVR has 100 i/o pins.
+
 Just ideas... 
 
 https://www.analog.com/en/analog-dialogue/articles/wideband-cmos-switches.html
 
 https://www.maximintegrated.com/en/design/technical-documents/app-notes/5/5299.html
+
+https://www.analog.com/en/technical-articles/cmos-switches-offer-high-performance-in-low-power-wideband-applications.html
+
 
 https://
 g i t l a b
