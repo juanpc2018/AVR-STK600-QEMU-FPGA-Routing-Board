@@ -65,6 +65,8 @@ D) using mini relays.
 Mini Relays = $$$, more energy consumption, wears, but will guarantee signal integrity.
 CMOS Analog Switches = cheaper, noiseless, low power, does Not wear as fast,
 but the problem is that AVR has 100 i/o pins.
+Highfrequency loss vs. Ron war... would require dual path approach with very low ROn path, and very low Capacitance path in parallel.
+
 
 Just ideas... 
 
